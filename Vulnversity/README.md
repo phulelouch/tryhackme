@@ -32,7 +32,7 @@ gobuster dir -u http://10.10.187.239:3333/ -w  /Users/phulelouch/SecLists/Discov
     .phtml
     .phtm
     .inc
-    ```
+```
 
 4. Upload file php by pentestmonkey, scan the endpoint
 
