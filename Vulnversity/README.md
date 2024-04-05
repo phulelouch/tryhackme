@@ -34,7 +34,7 @@ gobuster dir -u http://10.10.187.239:3333/ -w  /Users/phulelouch/SecLists/Discov
     .inc
     ```
 
-4. Upload file, scan the endpoint
+4. Upload file php by pentestmonkey, scan the endpoint
 
 ```bash
 gobuster dir -u http://10.10.187.239:3333/internal/ -w  /Users/phulelouch/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
